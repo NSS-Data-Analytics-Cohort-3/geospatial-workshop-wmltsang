@@ -40,4 +40,4 @@ conda deactivate
 ##### notebooks
 - geospatial_intro.ipynb (geopandas and foilum)
 - matplotlib_subplots.ipynb (matplotlib styling of geoplots in latter part of notebook)
--Bikeracks (geopandas and foilum) explores the highest number of bikeracks in Nashville
+- Bikeracks (geopandas and foilum) explores the highest number of bikeracks in Nashville
